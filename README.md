@@ -11,8 +11,8 @@
 - Java | .NET | Angular | Android | TypeScript | HTML/CSS  
 
 ### 📂 Projetos em destaque
-- [ProgramacaoDispositivosMoveisCascavel](link) – Programação Mobile em Java  
-- [pedidomobile](https://github.com/paulohpssantos/pedidomobile) – Sistema de pedidos Android em Java  
+- [PedidoMobile](https://github.com/paulohpssantos/pedidomobile) – Sistema de pedidos Android em Java
+- [CadastroAlunoApp]([link](https://github.com/paulohpssantos/CadastroAlunoApp)) – Sistema de cadastro de alunos Android Java  
 - [programacaoInternetToledo2025](link) – Programação Web (HTML)  
 
 📊 Estatísticas do GitHub:  
