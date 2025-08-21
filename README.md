@@ -13,7 +13,8 @@
 ### 📂 Projetos em destaque
 - [PedidoMobile](https://github.com/paulohpssantos/pedidomobile) – Sistema de pedidos Android em Java
 - [CadastroAlunoApp](https://github.com/paulohpssantos/CadastroAlunoApp) – Sistema de cadastro de alunos Android Java  
-- [programacaoInternetToledo2025](link) – Programação Web (HTML)  
+- [Portal-Tarefas](https://github.com/paulohpssantos/portal-tarefas) – Projeto Angular para cadastrar e gerenciar tarefas
+- [TaskAPI](https://github.com/paulohpssantos/TaskAPI) – Projeto API RESTful Java para gerenciamento de tarefas 
 
 📊 Estatísticas do GitHub:  
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=paulohpssantos&show_icons=true&theme=dracula)  
