@@ -12,7 +12,7 @@
 
 ### 📂 Projetos em destaque
 - [PedidoMobile](https://github.com/paulohpssantos/pedidomobile) – Sistema de pedidos Android em Java
-- [CadastroAlunoApp]([link](https://github.com/paulohpssantos/CadastroAlunoApp)) – Sistema de cadastro de alunos Android Java  
+- [CadastroAlunoApp](https://github.com/paulohpssantos/CadastroAlunoApp) – Sistema de cadastro de alunos Android Java  
 - [programacaoInternetToledo2025](link) – Programação Web (HTML)  
 
 📊 Estatísticas do GitHub:  
