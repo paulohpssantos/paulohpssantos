@@ -12,7 +12,7 @@
 
 ### 📂 Projetos em destaque
 - [ProgramacaoDispositivosMoveisCascavel](link) – Programação Mobile em Java  
-- [pedidomobile](link) – Sistema de pedidos em Java  
+- [pedidomobile](https://github.com/paulohpssantos/pedidomobile) – Sistema de pedidos Android em Java  
 - [programacaoInternetToledo2025](link) – Programação Web (HTML)  
 
 📊 Estatísticas do GitHub:  
