@@ -19,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ### 📂 Projetos em destaque
+- [PoliticaTransparente](https://github.com/paulohpssantos/politicaTransparenteApp) – Aplicativo para mostrar o trabalho dos deputados
 - [PedidoMobile](https://github.com/paulohpssantos/pedidomobile) – Sistema de pedidos Android em Java
 - [CadastroAlunoApp](https://github.com/paulohpssantos/CadastroAlunoApp) – Sistema de cadastro de alunos Android Java  
 - [Portal-Tarefas](https://github.com/paulohpssantos/portal-tarefas) – Projeto Angular para cadastrar e gerenciar tarefas
